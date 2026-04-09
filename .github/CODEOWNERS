@@ -1,0 +1,3 @@
+# CODEOWNERS template for live integration
+* @joshjohanning-org-settings-sync-tests/platform
+*.md @joshjohanning-org-settings-sync-tests/docs
